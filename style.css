@@ -47,6 +47,5 @@ img {
 }
 
 #details a {
-  display: block;
-  float:left;
   background-color: #ee2222;
+}
