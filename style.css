@@ -46,7 +46,7 @@ img {
   width: 25%;
 }
 
-#details nav {
+#details a {
   display: block;
   float:left;
   background-color: #ee2222;
