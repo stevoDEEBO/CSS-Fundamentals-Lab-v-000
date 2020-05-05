@@ -9,10 +9,9 @@ header {
 }
 
 h1 {
-  position: center;
+  text-align: center;
 }
 
 nav {
   position: center;
 }
-
