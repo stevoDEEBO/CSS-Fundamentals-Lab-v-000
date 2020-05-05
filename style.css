@@ -3,3 +3,11 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  position: center;
+}
+
+h1 {
+  position: center;
+}
