@@ -25,6 +25,6 @@ img {
 }
 
 #featured-property p {
-  align: center;
+  text-align: center;
   width: 800px;
 }
